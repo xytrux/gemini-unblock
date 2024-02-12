@@ -1,5 +1,5 @@
 # gemini-at-school
-This guide aims to allow students at school to use Google Gemini (or Bard).
+This guide aims to allow students at school to use Google Gemini.
 
 ## Adding another account
 ### Step 1
